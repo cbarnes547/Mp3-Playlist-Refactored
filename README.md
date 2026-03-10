@@ -1,1 +1,4 @@
 # Mp3-Playlist-Refactored
+# Project Overview
+
+In this project, I refactored a mock MP3 player application to utilize full Object-Oriented Programming principles by replacing parallel arrays with a custom Song class and a Playlist manager. I implemented data encapsulation to protect song metadata such as artist, title, and duration while managing the collection through a dynamic ArrayList<Song>. The system includes complex file I/O operations, allowing for the serialization and deserialization of playlist data including custom date formatting with the Calendar class. I also developed a suite of CRUD (Create, Read, Update, Delete) methods to manipulate the playlist contents through the JavaFX controller logic. This transition demonstrates my ability to design class hierarchies and use collection frameworks to build more scalable and maintainable Java applications.
